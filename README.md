@@ -9,6 +9,7 @@ Appender configuration:
       <applicationName value="PushoverTestMvc" />
       <applicationKey value="Your-application-key" />
       <userKey value="Your-user-key" />
+      <!--<threshold value="FATAL" />-->
       <layout type="log4net.Layout.PatternLayout">
         <conversionPattern value="%date [%thread] %-5level %logger [%property{NDC}] - %message%newline" />
       </layout>
