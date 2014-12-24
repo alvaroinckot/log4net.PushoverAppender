@@ -1,0 +1,10 @@
+C:\Sites\log4net.Appender.PushoverAppender\log4net.Appender.PushoverAppender\obj\Debug\log4net.Appender.PushoverAppender.csprojResolveAssemblyReference.cache
+C:\Sites\log4net.Appender.PushoverAppender\log4net.Appender.PushoverAppender\bin\Debug\log4net.Appender.PushoverAppender.dll
+C:\Sites\log4net.Appender.PushoverAppender\log4net.Appender.PushoverAppender\bin\Debug\log4net.Appender.PushoverAppender.pdb
+C:\Sites\log4net.Appender.PushoverAppender\log4net.Appender.PushoverAppender\bin\Debug\log4net.dll
+C:\Sites\log4net.Appender.PushoverAppender\log4net.Appender.PushoverAppender\bin\Debug\PushoverClient.dll
+C:\Sites\log4net.Appender.PushoverAppender\log4net.Appender.PushoverAppender\bin\Debug\ServiceStack.Text.dll
+C:\Sites\log4net.Appender.PushoverAppender\log4net.Appender.PushoverAppender\bin\Debug\log4net.xml
+C:\Sites\log4net.Appender.PushoverAppender\log4net.Appender.PushoverAppender\bin\Debug\ServiceStack.Text.xml
+C:\Sites\log4net.Appender.PushoverAppender\log4net.Appender.PushoverAppender\obj\Debug\log4net.Appender.PushoverAppender.dll
+C:\Sites\log4net.Appender.PushoverAppender\log4net.Appender.PushoverAppender\obj\Debug\log4net.Appender.PushoverAppender.pdb

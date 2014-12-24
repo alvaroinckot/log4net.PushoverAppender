@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>log4net.Appender.PushoverAppender</id>
+    <version>1.0.0</version>
+    <title>log4net.PushoverAppender</title>
+    <authors>Alvaro Cantador</authors>
+    <owners>Alvaro Cantador</owners>
+    <projectUrl>https://github.com/alvarocantador/log4net.PushoverAppender</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Pushover log4net appender</description>
+    <releaseNotes>Initital package.</releaseNotes>
+    <copyright>Copyright 2014</copyright>
+    <tags>log4net appender pushover</tags>
+    <dependencies>
+      <dependency id="ServiceStack.Text" version="3.9.59" />
+      <dependency id="PushoverNET" version="1.0.2.0" />
+      <dependency id="log4net" version="2.0.3" />
+    </dependencies>
+  </metadata>
+</package>
