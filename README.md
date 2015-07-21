@@ -19,4 +19,3 @@ Install via nuget
 
     Install-Package log4net.Appender.PushoverAppender
     
-More info in http://www.alvarocantador.com/push-notifications-para-log-de-aplicacoes-com-lo4net-e-pushover/
